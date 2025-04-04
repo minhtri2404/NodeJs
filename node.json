@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "67eeb9b915917ce2653a3860"
+  },
+  "customerInfo": [
+    {
+      "name": "aa",
+      "email": "a@gmail.com",
+      "address": "abc",
+      "phone": 123456789,
+      "paymentMethod": "Tiền mặt",
+      "_id": {
+        "$oid": "67eeb9b915917ce2653a3861"
+      }
+    }
+  ],
+  "cartItems": [
+    {
+      "name": "buger",
+      "image": "bigmac.jpg",
+      "price": 100,
+      "selectedSize": "",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67eeb008985ec166ff5820da"
+      }
+    }
+  ],
+  "totalAmount": 100,
+  "status": "Đang xử lý",
+  "createAt": {
+    "$date": "2025-04-03T16:39:21.678Z"
+  },
+  "updateAt": {
+    "$date": "2025-04-03T16:39:21.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eeb9e915917ce2653a3866"
+  },
+  "customerInfo": [
+    {
+      "name": "b",
+      "email": "b@gmail.com",
+      "address": "acv",
+      "phone": 1234567899,
+      "paymentMethod": "Chuyển khoản",
+      "_id": {
+        "$oid": "67eeb9e915917ce2653a3867"
+      }
+    }
+  ],
+  "cartItems": [
+    {
+      "name": "buger",
+      "image": "bigmac.jpg",
+      "price": 100,
+      "selectedSize": "",
+      "quantity": 1,
+      "_id": {
+        "$oid": "67eeb008985ec166ff5820da"
+      }
+    }
+  ],
+  "totalAmount": 100,
+  "status": "Đang xử lý",
+  "createAt": {
+    "$date": "2025-04-03T16:40:09.124Z"
+  },
+  "updateAt": {
+    "$date": "2025-04-03T16:40:09.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67eeece881010a3bc19a54d3"
+  },
+  "customerInfo": [
+    {
+      "name": "Huy",
+      "email": "Huy@gmail.com",
+      "address": "123",
+      "phone": 1241414,
+      "paymentMethod": "Tiền mặt",
+      "_id": {
+        "$oid": "67eeece881010a3bc19a54d4"
+      }
+    }
+  ],
+  "cartItems": [
+    {
+      "name": "gà",
+      "image": "chicken.jpg",
+      "price": 100,
+      "selectedSize": "",
+      "quantity": 2,
+      "_id": {
+        "$oid": "67eeaf64985ec166ff5820d7"
+      }
+    }
+  ],
+  "totalAmount": 200,
+  "status": "Đang xử lý",
+  "createAt": {
+    "$date": "2025-04-03T20:17:44.640Z"
+  },
+  "updateAt": {
+    "$date": "2025-04-03T20:17:44.641Z"
+  },
+  "__v": 0
+}]

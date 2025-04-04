@@ -1,0 +1,326 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "HEART BROKEN TEE BOXY",
+      "image": "broken.jpg",
+      "price": 220000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "HEART BROKEN TEE BOXY - Mẫu áo thun mới.",
+      "stock": 10
+    },
+    {
+      "id": "2",
+      "name": "CARGO PANTS TEN BOX",
+      "image": "cargopant.jpg",
+      "price": 265000,
+      "category": "bottoms",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "CARGO PANTS TEN BOX - Mẫu quần túi hộp mới.",
+      "stock": 10
+    },
+    {
+      "id": "3",
+      "name": "ÁO THUN CICI",
+      "image": "cici.jpg",
+      "price": 180000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "ÁO THUN CICI - Mẫu áo thun mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "4",
+      "name": "HOODIE ZIP ALIVE",
+      "image": "hoodiealive.jpg",
+      "price": 190000,
+      "category": "outerwear",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "HOODIE ZIP ALIVE - Mẫu áo khoác hoodie mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "5",
+      "name": "HOODIE ZIP BOXY",
+      "image": "hoodieboxy.jpg",
+      "price": 190000,
+      "category": "outerwear",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "HOODIE ZIP BOXY - Mẫu áo khoác hoodie mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "6",
+      "name": "JOGGER PARACHUTE",
+      "image": "parachute.jpg",
+      "price": 135000,
+      "category": "bottoms",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "JOGGER PARACHUTE - Mẫu quần vải dù mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "7",
+      "name": "77 TEE",
+      "image": "77tee.jpg",
+      "price": 130000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "77 Tee - Mẫu áo thun thể thao mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "8",
+      "name": "BOMBER ZIP BOXY",
+      "image": "BOMBERZIPBOXY.jpg",
+      "price": 250000,
+      "category": "outerwear",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "BOMBER ZIP BOXY - Mẫu áo khoác dù form rộng mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "9",
+      "name": "SOMI FLANNEL",
+      "image": "flannel.jpg",
+      "price": 160000,
+      "category": "outerwear",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "SOMI FLANNEL - ✨Cùng điểm tô thêm sắc màu cho chuyến du  lịch của bạn bằng những chiếc somi flannel màu sắc nổi bật nào❤️.",
+      "stock": 10
+    },
+    {
+      "id": "10",
+      "name": "H! TEE",
+      "image": "hi.jpg",
+      "price": 125000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "H! TEE - Mẫu áo thun in hình H! basic mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "11",
+      "name": "JOGGER KAKI HANA",
+      "image": "hana.jpg",
+      "price": 220000,
+      "category": "bottoms",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "JOGGER KAKI HANA - Mẫu quần jogger vải kaki túi hộp mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "12",
+      "name": "JACKER MM",
+      "image": "jacketMM.jpg",
+      "price": 230000,
+      "category": "outerwear",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "JACKER MM - Mẫu áo khoác vải phối da mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "13",
+      "name": "JACKET JEAN WASH",
+      "image": "jeanwash.jpg",
+      "price": 300000,
+      "category": "outerwear",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "JACKET JEAN WASH - Mẫu áo khoác jean loang xám cá tính mới 2024.",
+      "stock": 10
+    },
+    {
+      "id": "14",
+      "name": "LABUBU TEE",
+      "image": "LabubuTee.jpg",
+      "price": 150000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "LABUBU TEE - Làn sóng Labubu đã tràn tới shop rồi mấy bạn ơi ❤️, Mấy bạn nhỏ thấy cưng quá nên shop lên áo cho các bạn với nhiều màu lắm nạ.",
+      "stock": 10
+    },
+    {
+      "id": "15",
+      "name": "MADNESS TEE",
+      "image": "madness.jpg",
+      "price": 150000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "MADNESS TEE - Mẫu áo thun mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "16",
+      "name": "RAGLAN JAY TEE",
+      "image": "raglanjay.jpg",
+      "price": 160000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "RAGLAN JAY TEE - Mẫu áo thun độc quyền jaystoree phối màu raglan basic mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "16",
+      "name": "RAGLAN LABUBU TEE",
+      "image": "RaglanLabubu.jpg",
+      "price": 160000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "RAGLAN LABUBU TEE - Mẫu áo thun labubu phối màu raglan mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "17",
+      "name": "NYLON SHORTS",
+      "image": "shortdu.jpg",
+      "price": 140000,
+      "category": "bottoms",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "NYLON SHORTS - Quần short chất liệu vải dù trơn thể thao mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "18",
+      "name": "SOMI JAYST",
+      "image": "somijay.jpg",
+      "price": 160000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "SOMI JAYST - Mẫu áo sơmi độc quyền jaystoree mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "19",
+      "name": "SOUNDING TEE",
+      "image": "sounding.jpg",
+      "price": 130000,
+      "category": "tops",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "SOUNDING TEE - Mẫu áo thun mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "20",
+      "name": "JOGGER SPORTING",
+      "image": "sporting.jpg",
+      "price": 200000,
+      "category": "bottoms",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "JOGGER SPORTING - Mẫu quần jogger túi hộp vải dù  mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "21",
+      "name": "JOGGER KAKI VIGO",
+      "image": "vigo.jpg",
+      "price": 220000,
+      "category": "bottoms",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "JOGGER KAKI VIGO - Mẫu quần jogger túi hộp vải kaki mới 2024",
+      "stock": 10
+    },
+    {
+      "id": "6ef2",
+      "name": "HOODIE BASIC",
+      "image": "hoodiebasic.jpg",
+      "price": 160000,
+      "category": "outerwear",
+      "size": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "mẫu HOODIE trơn basic nhiều màu sắc",
+      "stock": 10
+    }
+  ]
+}
